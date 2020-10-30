@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Input
+comment1.params=
+comment1.target=Input()
+comment1.text=\n\ default\ constructor\n
+comment2.params=displayMessage
+comment2.target=java.lang.String\ acceptStringInput(java.lang.String)
+comment2.text=\n\ static\ method\ for\ catching\ the\ input\ String\ of\ users\n\ @param\n\ String\ the\ message\ displayed\ before\ entering\n\ @return\ \n\ String\ of\ the\ input\ contents\n
+comment3.params=displayMessage
+comment3.target=int\ acceptIntegerInput(java.lang.String)
+comment3.text=\n\ static\ method\ for\ catching\ the\ input\ integer\ of\ users\n\ @param\n\ String\ the\ message\ displayed\ before\ entering\n\ @return\ \n\ integer\ of\ the\ input\ contents\n
+numComments=4

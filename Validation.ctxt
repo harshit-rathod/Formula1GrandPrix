@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Validation
+comment0.text=\n\ the\ class\ Validation\ is\ for\ validating\ the\ input\ contents\n\ @author\ (Haoyu\ Yang)\n\ @version\ 1.0\ (31.May.2019)\n
+comment1.params=
+comment1.target=Validation()
+comment1.text=\n\ default\ constructor\n
+comment2.params=value\ min\ max
+comment2.target=boolean\ numberRange(int,\ int,\ int)
+comment2.text=\n\ a\ static\ method\ for\ judging\ whether\ the\ input\ integer\ value\ is\ within\ the\ range\n\ @param\n\ input\ int\n\ int\ min/max\ \:\ the\ range\n\ @return\ \n\ a\ boolean\ to\ indicate\ whether\ the\ input\ integer\ value\ is\ within\ the\ range\n
+comment3.params=value
+comment3.target=boolean\ stringIsBlank(java.lang.String)
+comment3.text=\n\ a\ static\ method\ for\ judging\ whether\ the\ input\ String\ is\ blank\n\ @param\n\ input\ String\n\ @return\ \n\ a\ boolean\ to\ indicate\ whether\ the\ input\ String\ is\ blank\n
+comment4.params=value\ min\ max
+comment4.target=boolean\ stringLengthWithRange(java.lang.String,\ int,\ int)
+comment4.text=\n\ a\ static\ method\ for\ judging\ whether\ the\ input\ String\ is\ within\ the\ range\n\ @param\n\ input\ String\n\ int\ min/max\ \:\ the\ range\n\ @return\ \n\ a\ boolean\ to\ indicate\ whether\ the\ input\ String\ is\ within\ the\ range\n
+numComments=5

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=FileIO
+comment1.params=
+comment1.target=FileIO()
+comment1.text=\n\ default\ constructor\n
+comment2.params=newFileName
+comment2.target=FileIO(java.lang.String)
+comment2.text=\n\ non-default\ constructor\n
+comment3.params=
+comment3.target=java.lang.String\ getFileName()
+comment3.text=\n\ accessor\ for\ "FileIO"\ object\ to\ get\ the\ file\ name\n\ @return\ \n\ String\ \:\ file\ name\n
+comment4.params=
+comment4.target=java.lang.String\ readFile()
+comment4.text=\n\ read\ and\ get\ the\ contents\ from\ a\ file\ and\ return\ a\ String\ of\ the\ contents\n\ @return\ \n\ return\ a\ String\ of\ the\ contents\n
+comment5.params=newFileName
+comment5.target=void\ setFileName(java.lang.String)
+comment5.text=\n\ mutator\ for\ "FileIO"\ object\ to\ set\ the\ file\ name\n\ @param\n\ String\ \:\ the\ file\ name\n
+comment6.params=contents
+comment6.target=void\ writeFile(java.lang.String)
+comment6.text=\n\ write\ the\ contents\ of\ drivers\ into\ a\ file\n
+numComments=7

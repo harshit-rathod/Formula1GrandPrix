@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RNG
+comment0.text=\n\ the\ class\ RNG\ is\ a\ "Random\ Numeral\ Generator"\n\ @author\ (Haoyu\ Yang)\n\ @version\ 1.0\ (31.May.2019)\n
+comment1.params=
+comment1.target=RNG()
+comment1.text=\n\ default\ constructor\n
+comment2.params=minimumValue\ maximumValue
+comment2.target=int\ getRandomNumber(int,\ int)
+comment2.text=\n\ create\ a\ random\ number\ within\ the\ range\ of\ the\ input\ integers\ and\ return\ this\ random\ number\n\ @param\n\ int\ minimumValue/int\ maximumValue\ \:\ the\ range\ of\ the\ random\ number\n\ @return\ \n\ int\ \:\ return\ a\ random\ number\ within\ the\ range\n
+numComments=3
